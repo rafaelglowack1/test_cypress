@@ -47,3 +47,4 @@ describe('Testes da Agenda de Contatos - EBAC', () => {
     cy.contains('Rafa Editado').should('not.exist');
   });
 });
+// feito
